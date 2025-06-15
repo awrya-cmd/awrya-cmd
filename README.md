@@ -5,4 +5,4 @@
 - 💞️ I’m looking for new experiences and challenges!
 - 😄 Pronouns: she/her
 
-![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayur-Pagote&theme=radical)
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awrya-cmd&theme=radical)
