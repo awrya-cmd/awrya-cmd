@@ -5,7 +5,4 @@
 - 💞️ I’m looking for new experiences and challenges!
 - 😄 Pronouns: she/her
 
-<!---
-awrya-cmd/awrya-cmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayur-Pagote&theme=radical)
