@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 in my room probably contributing to open source or debugging<br>the hell out of my code.
+🔭 in my room probably contributing to open source or debugging the hell out of my code.
 
 
 ## 🌐 Socials:
@@ -12,7 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=awrya-cmd&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=awrya-cmd&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
